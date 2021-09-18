@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #e21d2d;
+  background: #ee30dd;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2664,7 +2664,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 body {
-  background: url("images/background.png");
+  background: url("https://img1.baidu.com/it/u=2455305453,1734302910&fm=26&fmt=auto");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
