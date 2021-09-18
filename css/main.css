@@ -1141,6 +1141,7 @@ pre .javascript .function {
   margin: 0 auto;
   max-width: 120px;
   padding: 2px;
+  border-radius: 50%;
 }
 .site-author-name {
   color: var(--text-color);
@@ -1168,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ee30dd;
+  background: #ff33a3;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2664,7 +2665,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 body {
-  background: url("https://img1.baidu.com/it/u=2455305453,1734302910&fm=26&fmt=auto");
+  background: url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F2017-11-17%2F5a0e768fb8f0a.jpg%3Fdown&refer=http%3A%2F%2Fpic1.win4000.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1634538089&t=d49327210684ef9162ad25e3b6502f86");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
